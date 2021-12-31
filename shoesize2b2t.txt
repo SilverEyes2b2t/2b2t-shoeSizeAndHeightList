@@ -231,3 +231,5 @@ Redstoner2b2t: shoe size 12 UK, height 180cm
 Burgerkingfoot: shoe size 46, height 6.1
 
 Steampunkjax: shoe size 10.5, height 5'10
+
+SilverEyes2b2t: shoe size 10 US, height 6'3
